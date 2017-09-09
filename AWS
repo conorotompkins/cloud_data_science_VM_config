@@ -20,3 +20,7 @@ install2.r devtools tidyverse
 rm -rf /tmp/downloaded_packages/ /tmp/*.rd
 
 
+install gdal
+http://www.sarasafavi.com/installing-gdalogr-on-ubuntu.html
+
+need to find code to install dependency of ggraph
